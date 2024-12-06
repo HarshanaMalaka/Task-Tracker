@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input {
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
